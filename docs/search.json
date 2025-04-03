@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "Publication/index.html",
+    "href": "Publication/index.html",
+    "title": "Citation and link",
+    "section": "",
+    "text": "I am a co-author on a recent publication on the Academia Mental Health and Well-Being Journal. Excited to share our article and grateful to my co-authors and Dr. Stephanie E. Waggel for their support!"
+  },
+  {
+    "objectID": "Publication/index.html#the-psychological-impact-on-american-healthcare-workers-during-the-covid-19-pandemic-an-initial-scoping-review",
+    "href": "Publication/index.html#the-psychological-impact-on-american-healthcare-workers-during-the-covid-19-pandemic-an-initial-scoping-review",
+    "title": "Citation and link",
+    "section": "",
+    "text": "I am a co-author on a recent publication on the Academia Mental Health and Well-Being Journal. Excited to share our article and grateful to my co-authors and Dr. Stephanie E. Waggel for their support!"
+  },
+  {
+    "objectID": "Publication/index.html#citation",
+    "href": "Publication/index.html#citation",
+    "title": "Citation and link",
+    "section": "Citation",
+    "text": "Citation\nKonagalla, S. V., Azeem, M., Kumaravel, V., Machiraju, V. K., Nguyen, M., Decker, R. A., … Waggel, S. E. (2025). The psychological impact on American healthcare workers during the COVID-19 pandemic: an initial scoping review. Academia Mental Health and Well-Being, 2(1). https://doi.org/10.20935/MHealthWellB7570\nRead the article here"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my Website!",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     linkedin\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my Website!\nI am Vedasree Machiraju, a master’s student in Biomedical and Health Informatics at Case Western Reserve University’s School of Medicine, Department of Population and Quantitative Health Sciences. I hold a bachelor’s degree in Biology with a minor in Psychology from George Mason University. Along with my academic background, I bring practical experience from working in healthcare and currently serve as an intern at Wave Strategy."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "How to Be a Modern Scientist: Key Takeaways",
+    "section": "",
+    "text": "Being a modern scientist is all about balance. That’s the central theme of How to Be a Modern Scientist by Jeffery Leek. But today, this balance involves many more aspects than traditional scientists had to deal with.\nGone are the days when scientists were only responsible for conducting research, publishing in peer-reviewed journals, and being judged solely on research productivity. Today’s scientists wear many hats. This includes managing code, maintaining an online presence, and making data publicly available, just to name a few.\nNavigating these new responsibilities isn’t easy, but Leek does a great job outlining them. Here are three key areas that can help modern scientists adapt to this ever-evolving landscape."
+  },
+  {
+    "objectID": "blog/index.html#managing-social-media",
+    "href": "blog/index.html#managing-social-media",
+    "title": "How to Be a Modern Scientist: Key Takeaways",
+    "section": "1. Managing Social Media",
+    "text": "1. Managing Social Media\nFor those who haven’t used social media in an academic setting, this can feel overwhelming. It is very different from personal social media use and requires a more strategic approach. The book offers practical advice to make it easier, which I summarize here:\nCultivate online friendships: Maintain a network of scientists (junior or senior); just make sure to keep a connection. You’ll often run into “familiar handles” at conferences or meetings, making networking smoother. This will make you more “social.”\nBe mindful of controversial topics: Stick to science-related discussions to maintain professionalism and avoid unnecessary attention. While it might be tempting to express opinions on hot-button topics, it’s important to remember that this use of social media should remain professional.\nPromote others: Social media isn’t just about self-promotion. It is an opportunity to share work you find valuable and relevant. This can create reciprocity and encourage other scientists to notice and share your work when possible!"
+  },
+  {
+    "objectID": "blog/index.html#data-sharing",
+    "href": "blog/index.html#data-sharing",
+    "title": "How to Be a Modern Scientist: Key Takeaways",
+    "section": "2. Data Sharing",
+    "text": "2. Data Sharing\nThis section hit close to home for me. I’ve struggled to get authors to share their data, only to be met with silence or rejection. Many emails I’ve sent requesting access to data have gone unanswered. This is a huge barrier to understanding and reproducing research. Leek emphasizes this issue and provides some guidelines that would benefit everyone involved:\nNot knowing how to share data isn’t an excuse: Learn how and make your data public. Being adaptable is key in this current climate.\nPublish both raw and tidy versions: This ensures accessibility and usability.\nInclude direct and permanent links: Make it easy for others to find and use your datasets. Many people might lose interest in your research if accessing your work is a constant struggle."
+  },
+  {
+    "objectID": "blog/index.html#scientific-talks",
+    "href": "blog/index.html#scientific-talks",
+    "title": "How to Be a Modern Scientist: Key Takeaways",
+    "section": "3. Scientific Talks",
+    "text": "3. Scientific Talks\nLeek sums up this section perfectly in one phrase: “Entertain, don’t teach.” I couldn’t agree more. Talks that engage and entertain are the ones that stick with the audience. From my experience attending talks, speakers who keep it light and engaging tend to leave a lasting impression.\nAdapt your timing: If you’re the last speaker and others have run long, be flexible and shorten your talk. It’s more important to leave your audience satisfied than to overwhelm them.\nHandle aggressive questions gracefully: If a debate starts brewing, suggest continuing the conversation after the talk. It’s crucial to maintain professionalism in these moments.\nIt’s okay to say, “I don’t know”: Stay open-minded when faced with tough questions. The phrase “I don’t know” can open doors you didn’t even know existed.\nThese are just a few of the many invaluable insights in How to Be a Modern Scientist.\nIf you want to dive deeper,\nCheck out the book here"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Planning and organizing events is often a tedious task as it requires multiple users and navigation of various websites. Event planning becomes even harder in the university setting as there are various groups and organizations that have to go through several departments to receive approvals for execution. I built an SQL based database system to introduce a convenient system for users to plan events, manage expenses, budgets, and many other crucial aspects of event organization."
+  },
+  {
+    "objectID": "projects/index.html#event-database-system",
+    "href": "projects/index.html#event-database-system",
+    "title": "Projects",
+    "section": "",
+    "text": "Planning and organizing events is often a tedious task as it requires multiple users and navigation of various websites. Event planning becomes even harder in the university setting as there are various groups and organizations that have to go through several departments to receive approvals for execution. I built an SQL based database system to introduce a convenient system for users to plan events, manage expenses, budgets, and many other crucial aspects of event organization."
+  },
+  {
+    "objectID": "projects/index.html#exploration-of-spatially-specific-mentions-in-narrative-text-for-spatial-video-geonarratives",
+    "href": "projects/index.html#exploration-of-spatially-specific-mentions-in-narrative-text-for-spatial-video-geonarratives",
+    "title": "Projects",
+    "section": "Exploration of Spatially Specific Mentions in Narrative Text for Spatial Video Geonarratives",
+    "text": "Exploration of Spatially Specific Mentions in Narrative Text for Spatial Video Geonarratives\nThrough this project, I aimed to capture spatially specific mentions and comments related to needle use or drug-related objects by tracking investigators or participants as they identify or point to such items. This approach is based on research utilizing Spatial Video Geonarratives (SVG), a methodology in nursing research that leverages wearable cameras and GPS technology. SVG allows for the detailed study of needle debris in the environment, particularly in the context of homelessness and drug use, helping to inform public health strategies aimed at addressing these issues."
+  }
+]
