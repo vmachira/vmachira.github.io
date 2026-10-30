@@ -1,0 +1,137 @@
+---
+title: "Vedasree Machiraju"
+subtitle: "Life Sciences Strategy & Commercialization · Project Management"
+pagetitle: "Vedasree Machiraju | Life Sciences Strategy & Commercialization"
+description: "Life sciences strategy and project management professional with 50+ client engagements across biotech, pharma, and medtech. M.S. Biomedical & Health Informatics, Case Western Reserve University."
+image: img/Image.jpeg
+css: custom.css
+about:
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  image-alt: "Headshot of Vedasree Machiraju"
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/vedasree/
+    - icon: envelope
+      text: Email
+      href: mailto:vedasreemachiraju28@gmail.com
+    - icon: file-earmark-arrow-down
+      text: Résumé
+      href: files/Vedasree_Machiraju_Resume.pdf
+    - icon: github
+      text: GitHub
+      href: https://github.com/vmachira
+---
+
+::: {.hero-statement}
+I help biotech, pharma, and medtech teams decide **where to play and how to win**, turning scientific, regulatory, and market data into commercialization strategies leaders can act on.
+:::
+
+Project Manager at **Wave Strategy**, where I lead commercialization strategy engagements end to end. I bring a rare mix: hands-on **clinical experience**, an **M.S. in Biomedical & Health Informatics** (4.0 GPA, Case Western Reserve University), and a track record of running **cross-functional client projects** from kickoff to boardroom-ready recommendations.
+
+:::: {.stat-grid}
+::: {.stat}
+[50+]{.stat-num}
+[client engagements across biotech, pharma & medtech]{.stat-label}
+:::
+::: {.stat}
+[20+]{.stat-num}
+[engagements shaped by my market sizing & CI models]{.stat-label}
+:::
+::: {.stat}
+[<12 mo]{.stat-num}
+[from Project Analyst to Project Manager]{.stat-label}
+:::
+::: {.stat}
+[4.0]{.stat-num}
+[GPA, M.S. Biomedical & Health Informatics]{.stat-label}
+:::
+::::
+
+## What I bring to a client team
+
+:::: {.card-grid}
+::: {.value-card}
+#### Commercialization strategy
+Market assessment, go-to-market strategy, and commercial due diligence for emerging therapies and technologies.
+:::
+::: {.value-card}
+#### Market & competitive intelligence
+Market sizing models, competitive landscapes, and KOL and clinician primary research that sharpen client decisions.
+:::
+::: {.value-card}
+#### Regulatory & IP landscape
+Regulatory pathway evaluation and IP reviews that inform investment and partnering choices.
+:::
+::: {.value-card}
+#### Project delivery
+Planning, milestones, scope, risk, and client communication across multiple concurrent engagements.
+:::
+::::
+
+## Experience
+
+::: {.role}
+### Project Manager · Wave Strategy LLC
+[July 2025 – Present]{.role-meta}
+
+- Lead end-to-end delivery of commercialization strategy engagements across biotech, pharma, and medtech, often several at once.
+- Own project planning, milestone tracking, scope changes, and risk mitigation to keep deliverables on time and on quality.
+- Serve as the client's main point of contact, translating complex findings into clear, actionable recommendations.
+- Drive business development through partner identification and opportunity assessment for emerging biomedical technologies.
+- Standardized PowerPoint and Excel deliverable templates, improving reporting consistency and turnaround time.
+:::
+
+::: {.role}
+### Project Analyst · Wave Strategy LLC
+[June 2024 – July 2025]{.role-meta}
+
+- Built market sizing models and competitive intelligence reports that shaped client strategy across 20+ engagements.
+- Led primary research, identifying and engaging key opinion leaders, clinicians, and strategic partners.
+- Analyzed therapeutic landscapes, regulatory pathways, and investment trends to surface commercialization opportunities.
+- **Promoted to Project Manager within 12 months** based on performance.
+:::
+
+::: {.role}
+### Advanced Clinical Associate · Inova GoHealth Urgent Care
+[October 2022 – December 2023]{.role-meta}
+
+- Managed intake, triage, and documentation in Epic EMR in a high-volume urgent care setting.
+- Analyzed patient data, lab results, and diagnostic reports to support provider decision-making. This frontline view of care delivery now informs my commercial work.
+:::
+
+## Education
+
+::: {.role}
+### M.S., Biomedical & Health Informatics · Case Western Reserve University School of Medicine
+[2024 – 2025 · GPA 4.0 · Academic Excellence Award]{.role-meta}
+
+Coursework in Statistical Methods in Healthcare, Artificial Intelligence in Medicine, and Health Finance.
+:::
+
+::: {.role}
+### B.S., Biology, Minor in Psychology · George Mason University
+[2018 – 2022]{.role-meta}
+:::
+
+## Toolkit
+
+::: {.chips}
+[Market Sizing]{.chip} [Competitive Intelligence]{.chip} [Go-to-Market]{.chip} [Commercial Due Diligence]{.chip} [KOL Engagement]{.chip} [Regulatory Strategy]{.chip} [IP Landscaping]{.chip} [Project Management]{.chip} [Excel Modeling]{.chip} [PowerPoint Storylining]{.chip} [Python]{.chip} [R]{.chip} [SQL]{.chip} [SAS]{.chip} [Pandas]{.chip} [Plotly]{.chip} [Epic EMR]{.chip} [TreeAge]{.chip} [ArcGIS]{.chip}
+:::
+
+**Certifications:** Python for Data Science and Machine Learning · CAPM Exam Preparation Course (PMI)
+
+## Research
+
+- **The Psychological Impact on American Healthcare Workers During the COVID-19 Pandemic: An Initial Scoping Review** (2025). Led conceptualization, analysis, and writing.
+- **SEA-PHAGES Research Program** (2021–2022). Isolated and characterized an actinobacteriophage and performed genomic annotation.
+
+::: {.cta-box}
+### Let's talk
+Building a life sciences strategy team or staffing a commercialization engagement? I'd welcome the conversation.
+
+[Download résumé](files/Vedasree_Machiraju_Resume.pdf){.btn .btn-primary} [Email me](mailto:vedasreemachiraju28@gmail.com){.btn .btn-outline-primary} [Connect on LinkedIn](https://www.linkedin.com/in/vedasree/){.btn .btn-outline-primary}
+:::
